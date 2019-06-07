@@ -6,4 +6,4 @@ spring:
     password: B1Admin
   jpa:
     hibernate:
-      ddl-auto: validate
+      ddl-auto: update
